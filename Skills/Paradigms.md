@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,21 +27,21 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor u
   - Operator `new`
   - Static method
-  - Method
+  - Method u
   - Async method
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
   - Abstract class
   - Interface
-  - Encapsulation
+  - Encapsulation u
   - Hidden class
   - Object form
   - Instance

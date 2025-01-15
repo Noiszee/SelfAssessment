@@ -1,17 +1,17 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
+  - Strengths and weaknesses of .NET k
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
+  - Asynchronous and synchronous programming k
+  - Task-based asynchronous pattern u
+  - Garbage collection in .NET 
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR
+  - Real-time applications with SignalR 
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
+  - .NET assemblies h
+  - NuGet package management u
   - Dependency management in .NET
   - Dependency Injection in .NET
   - Inversion of Control (IoC)
@@ -20,7 +20,7 @@
   - Modular applications
 - Environment and Tools
   - Command line interface (CLI) tools
-  - .NET CLI
+  - .NET CLI u
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
@@ -34,7 +34,7 @@
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management
+  - Memory and resource management u
   - Globalization and localization
 - Network and Protocols
   - HTTP/HTTPS support
@@ -67,9 +67,9 @@
   - Memory leak detection
 - Integration and Extensibility
   - Interoperability with native libraries
-  - P/Invoke for calling `C/C++` libraries
+  - P/Invoke for calling `C/C++` libraries u
   - COM interop
-  - .NET for `WebAssembly`
+  - .NET for `WebAssembly` h
   - Custom middleware development
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - C# syntax and language fundamentals u
+  - Advanced C# features (LINQ, async/await, delegates, events) u
+  - Reflection and dynamic programming k
+  - Data types and collections u
+  - Generics and extension methods u
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -103,24 +103,24 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
-  - Interoperability between managed (.NET) and unmanaged (native) code
-  - Memory management in mixed environments
-  - `C++/CLI` syntax and usage
-  - Accessing .NET Framework classes in `C++`
-  - Writing performance-critical modules
-  - Interfacing with native libraries and APIs
-  - Developing custom .NET libraries in `C++`
+  - C++ syntax and language fundamentals u
+  - Interoperability between managed (.NET) and unmanaged (native) code h
+  - Memory management in mixed environments h
+  - `C++/CLI` syntax and usage 
+  - Accessing .NET Framework classes in `C++` k
+  - Writing performance-critical modules 
+  - Interfacing with native libraries and APIs u
+  - Developing custom .NET libraries in `C++` 
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
   - Working with Windows API
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
-  - Interoperability between managed code and iOS/Android API
+  - .NET MAUI / Xamarin u
+  - Interoperability between managed code and iOS/Android API u
 - Game development
-  - Unity
+  - Unity u
 - Web development
   - ASP.NET Core
   - Blazor

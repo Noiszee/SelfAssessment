@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns k
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -12,7 +12,7 @@
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories u
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -20,14 +20,14 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
+  - Cohesion h
+  - Coupling 
+  - Cyclomatic complexity u
   - Reliability
   - Quality
-  - Availability
+  - Availability h
   - Flexibility
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) k
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -38,9 +38,9 @@
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture h
   - Domain-driven design (DDD)
-  - Pub/sub
+  - Pub/sub h
   - Message brocker
   - Agent
   - Service locator
@@ -56,7 +56,7 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways h
   - On-premises
   - IaaS
   - PaaS
@@ -64,9 +64,9 @@
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor k
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS) k
   - Solution visions
   - Solution capabilities
   - System design
@@ -89,11 +89,11 @@
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
-  - Enterprise capabilities
+  - Enterprise capabilities 
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices h
   - Process choreography
   - Service orchestration
   - Data warehouse
